@@ -10,12 +10,7 @@ Craftings = {
             Grade = 0
         },
         Location = vector3(-1401.3553, -598.1182, 30.32),
-        Items = {'popcorn', 'musli', 'nuts', 'donut', 'onionrings', 'langos', 'bagetasunkova', 'bagetasyrova', 'hotdog',
-                 'gulas', 'macacheese', 'spaghetti', 'pizza', 'chickensalat', 'hamburger', 'chilliconcarne',
-                 'water_flow', 'ecola', 'orangotang', 'sprunk', 'milkshake_pq', 'energy_junk', 'ecolatonic',
-                 'ecola_big', 'milk_carton', "bloodymary", "pinacolada", "cubalibre", "sex_on_the_beach", "margharita",
-                 "mojito", "cosmopolitan", "whiskey_themount", "whiskey_richard", "whiskey_macbeth",
-                 "vodka_cherenkovblue", "tequila_sinsimitosilver", "cognac_bourgeoix"},
+        Items = {'popcorn', 'musli', 'nuts', 'donut', 'onionrings', 'langos', 'bagetasunkova', 'bagetasyrova', 'hotdog'},
         Text = '[E] Občerstvení'
     },
     ['yellow_jack'] = {
@@ -24,12 +19,8 @@ Craftings = {
             Grade = 0
         },
         Location = vector3(1985.3405, 3048.7874, 47.215),
-        Items = {'popcorn', 'musli', 'nuts', 'donut', 'onionrings', 'langos', 'bagetasunkova', 'bagetasyrova', 'hotdog',
-                 'gulas', 'macacheese', 'spaghetti', 'pizza', 'chickensalat', 'hamburger', 'chilliconcarne',
-                 'water_flow', 'ecola', 'orangotang', 'sprunk', 'milkshake_pq', 'energy_junk', 'ecolatonic',
-                 'ecola_big', 'milk_carton', "bloodymary", "pinacolada", "cubalibre", "sex_on_the_beach", "margharita",
-                 "mojito", "cosmopolitan", "whiskey_themount", "whiskey_richard", "whiskey_macbeth",
-                 "vodka_cherenkovblue", "tequila_sinsimitosilver", "cognac_bourgeoix"},
+        Items = {"sex_on_the_beach", "margharita", "mojito", "cosmopolitan", "whiskey_themount", "whiskey_richard",
+                 "whiskey_macbeth", "vodka_cherenkovblue", "tequila_sinsimitosilver", "cognac_bourgeoix"},
         Text = '[E] Občerstvení'
     },
     -- gangy

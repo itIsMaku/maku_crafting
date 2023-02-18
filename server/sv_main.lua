@@ -39,9 +39,10 @@ RegisterNetEvent('maku_crafting:server:craftItem', function(recipe)
         end
     end
     player.addInventoryItem(recipe, 1)
-    exports['maku_utils']:SendWebhook(webhook, 'Crafting', string.format('Item - %s', recipe), string.format(
+    --[[exports['maku_utils']:SendWebhook(webhook, 'Crafting', string.format('Item - %s', recipe), string.format(
                                           '%s vyrobal item **%s**.\n\n %s', player.oocName, recipe, player.identifier),
                                       16777111)
+    ]]
 end)
 
 RegisterNetEvent('maku_crafting:server:requestItemsLabels', function()
